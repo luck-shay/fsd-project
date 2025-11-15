@@ -84,7 +84,7 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yatinsingh825/fsd_project.git
+git clone https://github.com/luck-shay/fsd_project.git
 cd fsd_project
 ```
 
